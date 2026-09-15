@@ -1,0 +1,24 @@
+{
+  "name": "ai-resume-screening-system",
+  "version": "1.0.0",
+  "description": "AI-Based Resume Screening & Job Matching System",
+  "type": "module",
+  "scripts": {
+    "dev": "node start-all.js",
+    "seed": "npm run seed --prefix backend",
+    "backend": "npm start --prefix backend",
+    "frontend": "npm run dev --prefix frontend",
+    "ai": "python ai_service/run.py"
+  },
+  "keywords": [
+    "resume-screening",
+    "nlp",
+    "fastapi",
+    "react",
+    "express",
+    "mongodb",
+    "job-matching"
+  ],
+  "author": "Praveen Kumar",
+  "license": "MIT"
+}

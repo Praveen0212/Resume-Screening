@@ -1,0 +1,28 @@
+Praveen Kumar
+Email: student@example.com
+Phone: +91 91234 56789
+Location: Bangalore, India
+Education: B.Tech in Computer Science and Engineering
+
+SUMMARY:
+Results-driven Full Stack Software Developer with 2.5 years of experience building modern web architectures using React, Node.js, Express, MongoDB, Python, and FastAPI.
+
+TECHNICAL SKILLS:
+- Languages: JavaScript, Python, Java, SQL, HTML5, CSS3
+- Frontend: React, Redux, Tailwind, Vite
+- Backend: Node.js, Express, FastAPI, REST API
+- Databases: MongoDB, MySQL, PostgreSQL, Redis
+- Cloud & DevOps: Git, Docker, AWS, Linux
+
+WORK EXPERIENCE:
+Full Stack Developer | Tech Innovations (2024 - Present)
+- Developed RESTful microservices with Node.js and MongoDB.
+- Implemented responsive user dashboards using React.
+- Deployed microservices using Docker.
+
+Junior Developer | WebSolutions Inc (2022 - 2024)
+- Built web pages with HTML5, CSS3, JavaScript, and React.
+- Designed database collections in MongoDB.
+
+EDUCATION:
+B.Tech in Computer Science and Engineering (2018 - 2022)
